@@ -13,7 +13,8 @@ body {
 }
 
 body {
-    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    /* font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; */
+    font-family:"Georgia", Georgia, Serif;
 }
 
 .text-vertical-center {
@@ -170,7 +171,7 @@ hr.small {
 
 /* Services */
 
-.services {
+.skills {
     padding: 50px 0;
 }
 
@@ -218,18 +219,6 @@ hr.small {
 
 .call-to-action .btn {
     margin: 10px;
-}
-
-/* Map */
-
-.map {
-    height: 500px;
-}
-
-@media(max-width:768px) {
-    .map {
-        height: 75%;
-    }
 }
 
 /* Footer */
